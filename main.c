@@ -1,3 +1,8 @@
+// Author: Yan Lu yfl5541@psu.edu
+// Collaborator: Gabrielle Brunner-King gsb5225@psu.edu
+// Collaborator: Mason McGuirk mtm5868@psu.edu
+// Section: 4
+// Breakout: 13
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
